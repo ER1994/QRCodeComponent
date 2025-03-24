@@ -24,7 +24,7 @@ body {
     align-items: center;
 }
 
-.main-content {
+main {
     background-color: var(--white);
     display: flex;
     flex-direction: column;
